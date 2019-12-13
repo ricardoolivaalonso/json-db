@@ -1,0 +1,28 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "title" : "React desde cero",
+            "img" : "https://www.dw.com/image/48396304_303.jpg",
+            "tipo" : false
+        },
+        {
+            "id": 2,
+            "title" : "Svelte JS",
+            "img" : "https://www.dw.com/image/48396304_303.jpg",
+            "tipo" : true
+        },
+        {
+            "id": 3,
+            "title" : "Illustrator",
+            "img" : "https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg",
+            "tipo" : true
+        },
+        {
+            "id": 4,
+            "title" : "Zdog",
+            "img" : "https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg",
+            "tipo" : true
+        }
+    ]
+}
